@@ -50,8 +50,21 @@ Data for this project is sourced directly from the official PhonePe Pulse GitHub
 
 This structured dataset enables in-depth exploration of digital payments trends at national, regional, and local levels.
 
+## Tech Stack
+
+	* Programming Language: Python
+	
+	* Database: MySQL
+	
+	* Core Libraries: Pandas, Plotly Express, Streamlit, Requests
+	
+	* Geospatial Mapping: GeoJSON (for Indian state and district boundaries)
+
+This combination enables robust data extraction, efficient storage, interactive analysis, and engaging visualizations tailored to Indian digital payment trends.
+
 ## LICENSE
 
 [Community Data License Agreement – Permissive – Version 2.0](https://github.com/PhonePe/pulse/blob/master/LICENSE)
+
 
 
