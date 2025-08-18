@@ -20,7 +20,7 @@ Scenario-based analysis to support strategic decision-making
 
 ## Use Cases Handled
 
-Which states are growing in transaction volumes?
+				* Which states are growing in transaction volumes?
 				
 				* Top 10 device brands are dominant?
 				
@@ -93,6 +93,7 @@ PHONE_PE/                      # Root project folder
 ## LICENSE
 
 [Community Data License Agreement – Permissive – Version 2.0](https://github.com/PhonePe/pulse/blob/master/LICENSE)
+
 
 
 
