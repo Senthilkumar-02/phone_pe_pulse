@@ -62,9 +62,30 @@ This structured dataset enables in-depth exploration of digital payments trends 
 
 This combination enables robust data extraction, efficient storage, interactive analysis, and engaging visualizations tailored to Indian digital payment trends.
 
+## Project Structure
+
+PHONE_PE/                      # Root project folder
+│
+├── pulse/                     
+│   └── data/                  # Data directory 
+│
+├── .gitignore                 # Git ignore file 
+├── LICENSE                    # License file for the project
+├── Phone_pay.py               # Main script 
+├── Phonepe_data_insert.py     # Script to insert/load PhonePe data into database
+├── preset_phonepe_data.py     # Script to Table creation into database
+└── README.md     
+
+
+
+
+
+
+
 ## LICENSE
 
 [Community Data License Agreement – Permissive – Version 2.0](https://github.com/PhonePe/pulse/blob/master/LICENSE)
+
 
 
 
