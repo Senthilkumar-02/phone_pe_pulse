@@ -22,35 +22,36 @@ Scenario-based analysis to support strategic decision-making
 
 Which states are growing in transaction volumes?
 				
-				Top 10 device brands are dominant?
+				* Top 10 device brands are dominant?
 				
-				Top 10 State-level insurance insights
+				* Top 10 State-level insurance insights
 				
-				States With Highest Transaction Amount?
+				* States With Highest Transaction Amount?
 				
-				Top 10 States With Phonepe users?
+				* Top 10 States With Phonepe users?
 				
-				10 States High and low insurance adoption—indicating untapped potential for expanding insurance services?
+				* 10 States High and low insurance adoption—indicating untapped potential for expanding insurance services?
 				
-				Which states, districts contribute the highest to overall transaction volume and value on PhonePe?
+				* Which states, districts contribute the highest to overall transaction volume and value on PhonePe?
 				
-				Which states, districts, and pin codes recorded the highest number of user registrations on year and quarter?
+				* Which states, districts, and pin codes recorded the highest number of user registrations on year and quarter?
 				
-				What are the top 10 regions (by district or pin code) contributing to overall insurance transaction volume?
+				* What are the top 10 regions (by district or pin code) contributing to overall insurance transaction volume?
 
 ## Dataset Overview
 
 Data for this project is sourced directly from the official PhonePe Pulse GitHub repository, comprising three primary components:
 
-Aggregated Data: Comprehensive statistics on transactions, user activity, and insurance, summarized across various categories.
+* Aggregated Data: Comprehensive statistics on transactions, user activity, and insurance, summarized across various categories.
 
-Map Data: State and district-level performance metrics for detailed geographic analysis.
+* Map Data: State and district-level performance metrics for detailed geographic analysis.
 
-Top Data: Rankings of the most popular categories, brands, and regions based on key indicators.
+* Top Data: Rankings of the most popular categories, brands, and regions based on key indicators.
 
 This structured dataset enables in-depth exploration of digital payments trends at national, regional, and local levels.
 
 ## LICENSE
 
 [Community Data License Agreement – Permissive – Version 2.0](https://github.com/PhonePe/pulse/blob/master/LICENSE)
+
 
