@@ -76,6 +76,14 @@ PHONE_PE/                      # Root project folder
 ├── preset_phonepe_data.py     # Script to Table creation into database
 └── README.md     
 
+## Contributing
+
+	## Exploratory Data Analysis & Visualization
+
+		* Main script (Phone_pay.py) likely builds interactive visualizations (possibly using Streamlit, Plotly, or Matplotlib).
+
+		* Helps analyze transactions, users, and growth trends across states, districts, and brands.
+
 
 
 
@@ -85,6 +93,7 @@ PHONE_PE/                      # Root project folder
 ## LICENSE
 
 [Community Data License Agreement – Permissive – Version 2.0](https://github.com/PhonePe/pulse/blob/master/LICENSE)
+
 
 
 
