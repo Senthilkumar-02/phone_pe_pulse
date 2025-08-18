@@ -76,7 +76,7 @@ PHONE_PE/                      # Root project folder
 ├── preset_phonepe_data.py     # Script to Table creation into database
 └── README.md     
 
-## Contributing
+## Contribution
 
 	## Exploratory Data Analysis & Visualization
 
@@ -93,6 +93,7 @@ PHONE_PE/                      # Root project folder
 ## LICENSE
 
 [Community Data License Agreement – Permissive – Version 2.0](https://github.com/PhonePe/pulse/blob/master/LICENSE)
+
 
 
 
